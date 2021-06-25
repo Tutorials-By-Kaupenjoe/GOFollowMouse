@@ -1,0 +1,8 @@
+Player Sprite "Adventurer Sprites" (CC BY 4.0) from Elthen:
+https://elthen.itch.io/pixel-art-adventurer-sprites
+If you like their work support them on their Patreon: 
+https://www.patreon.com/elthen
+
+All Scripts (MIT License, See LICENSE.txt for more info) 
+and Unity Project by Nico Kaupenjohann (Kaupenjoe):
+https://url.kaupenjoe.net/en/tutorials
